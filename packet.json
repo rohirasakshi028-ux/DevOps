@@ -13,6 +13,13 @@
       "mobile": "6356789000",
       "branch": "cse",
       "password": "1234567890"
+    },
+    {
+      "name": "Sakshi Rohira",
+      "email": "b240624@skit.ac.in",
+      "mobile": "0987654321",
+      "branch": "cse",
+      "password": "1234567890"
     }
   ]
 }
